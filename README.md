@@ -45,8 +45,7 @@ This project deploys a Jenkins server using Terraform on AWS. It includes:
 
 
 
-## GitHub Repository
-- [Link to GitHub Repository](https://github.com/sososimple-cmd/Jenkins-terraform)
+
 
 ## Resources
 - [Terraform Documentation](https://www.terraform.io/docs)
